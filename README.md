@@ -50,9 +50,6 @@ The correct ISO week of the year will be output into N7:152
 ISO Week established according to these websites:
 https://en.wikipedia.org/wiki/ISO_week_date
 http://myweb.ecu.edu/mccartyr/isowdcal.html
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 
 ## Authors
